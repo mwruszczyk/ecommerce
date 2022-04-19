@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YN0U4cInrbx/1GCw3CqBdQ+85aLyYdP0LNzMy95g+eDWAj/G91FUSoX4da6q1R55BP9uUBPy0CQRmS/jVIkQUA==",
+  "dgSpecHash": "Hg8BiDCNJ4ZLlD9aE/8Uf8OQbsxYS+CumThXkht4jP5k6NhH2jY2c3uq+YJcJqydy6q+UPTR9OUTJTevgf/vdQ==",
   "success": true,
   "projectFilePath": "D:\\UServices\\ECommerce\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Test.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.7.1\\microsoft.testplatform.objectmodel.16.7.1.nupkg.sha512",
     "C:\\Users\\marci\\.nuget\\packages\\microsoft.testplatform.testhost\\16.7.1\\microsoft.testplatform.testhost.16.7.1.nupkg.sha512",
+    "C:\\Users\\marci\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",

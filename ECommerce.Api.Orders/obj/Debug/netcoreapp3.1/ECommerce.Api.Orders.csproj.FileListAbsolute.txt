@@ -25,3 +25,4 @@ D:\UServices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Ap
 D:\UServices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
 D:\UServices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
 D:\UServices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.genruntimeconfig.cache
+D:\UServices\ECommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csprojAssemblyReference.cache
